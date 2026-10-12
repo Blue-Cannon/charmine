@@ -20,6 +20,11 @@
 '      comment @
 '    exit                          stop the program
 ' ==========================================================
+' © BlueBixt 2026, All Rights Reserved.
+' The LICENSE is under Apache 2.0, See ./LICENSE.
+' Charmine is CODEOWNERED by bluebixt-indiedev.
+' Please Contact our Email if something happens to our 
+' Files or Repository. BlueBixt <newssungoldentoday@gmail.com>
 
 DECLARE FUNCTION evalNum# (e$)
 DECLARE FUNCTION evalStr$ (e$)
